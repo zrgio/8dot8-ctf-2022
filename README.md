@@ -2,6 +2,8 @@
 
 [Compañero de crimenes: Federico Videla](https://github.com/acidobinario)
 
+Puesto: Tercer Lugar, primer lugar proximo año >:)
+
 ## hHIS
 
 Tu primer caso será superar este sistema de autenticación, para poder acceder a la máquina y proseguir la investigación.
