@@ -6,12 +6,6 @@ Puesto: Tercer Lugar, primer lugar proximo año >:)
 
 ## hHIS
 
-Tu primer caso será superar este sistema de autenticación, para poder acceder a la máquina y proseguir la investigación.
-
-Sabemos que ha sido instalado en el siguiente host: **deneb.hackrocks.com:5000**
-
-**NOTA**: ¡Ningún otro puerto forma parte del reto!
-
 Si vemos el host en el navegador obtenemos:
 
 ![Host en navegador](./images/Screenshot%20at%202022-10-21%2023-40-20.png)
